@@ -1,0 +1,5 @@
+dolar= input('Quantidade de dolares: ')
+dolar= float(dolar)
+valor= float(input('Qual valor da cotaçao do dolar: '))
+conversao = (dolar * valor)
+print ('conversao:', conversao)
