@@ -1,0 +1,5 @@
+nome = input('Digite seu nome: ')
+carros = int(input ('Quantos carros voce vendeu: '))
+valor_vendas = float(input('valor das vendas: '))
+salario = 1000 + (carros * 200) + (valor_vendas * 0.05)
+print(f'salario = R$ {salario:.2f}')
