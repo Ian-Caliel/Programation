@@ -1,3 +1,4 @@
+nome = input('digite seu nome: ')
 nota1 = input('Digite nota 1: ')
 nota1 = int(nota1)
 
@@ -9,4 +10,5 @@ nota3 = int(nota3)
 
 media = (nota1 + nota2 + nota3) / 3
 
-print('media:', media)
+print('media de',nome, '=', f"{media:.2f}") 
+
