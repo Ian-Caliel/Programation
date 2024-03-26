@@ -1,0 +1,43 @@
+.h2{
+    font-size: 24px;
+    color: darkblue;
+    background-color: lightskyblue;
+    
+    }
+.h1{ 
+    text-align: center;
+    font-size: 30px;
+    text-align: center;
+    color:darkblue;
+   font-family:cursive
+    }
+h1{
+    font-size: 30px;
+        color: darkblue;
+        text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+    font-size: 17px;
+}
+a{
+   color: darkblue; 
+}
+div{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+#nomepessoa, #nomepessoa:visited{
+    color: white;
+    text-decoration: none;
+}
+#nomepessoa:hover, .textosub{
+    color: darkblue;
+    text-decoration: none;
+}
+.textosub, .textosub:visited{
+    color: lightskyblue;
+    text-decoration: none;
+}
